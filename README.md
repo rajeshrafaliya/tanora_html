@@ -1,4 +1,4 @@
-# Tanora Luxury Personal Care — HTML Showcase
+# Tanora Luxury Personal Care - HTML Showcase
 
 Multi-page static showcase website for Tanora's 3 signature products:
 
@@ -7,15 +7,15 @@ Multi-page static showcase website for Tanora's 3 signature products:
 - **Nourishing Conditioner**
 
 ## Pages (3 main screens + supporting)
-- `index.html` — Homepage (hero, product grid with quick buy buttons, benefits, ingredients, reviews, CTA)
-- `shampoo.html`, `facewash.html`, `conditioner.html` — Full product detail pages featuring:
+- `index.html` - Homepage (hero, product grid with quick buy buttons, benefits, ingredients, reviews, CTA)
+- `shampoo.html`, `facewash.html`, `conditioner.html` - Full product detail pages featuring:
   - Clickable image gallery + lightbox with zoom (click image to enlarge, click enlarged to zoom 2x)
   - Price, description, key ingredients
-  - Direct **Amazon** & **Flipkart** purchase buttons (showcase only — no in-site checkout)
+  - Direct **Amazon** & **Flipkart** purchase buttons (showcase only - no in-site checkout)
   - Customer reviews & ratings
   - Related products + combo highlights
-- `combos.html` — 3 curated bundles with savings callouts + FAQ accordion
-- `privacypolicy.html` — Updated legal page
+- `combos.html` - 3 curated bundles with savings callouts + FAQ accordion
+- `privacypolicy.html` - Updated legal page
 
 ## External Purchase Links
 All "Buy" buttons link to Amazon.in / Flipkart search pages using placeholder queries.
@@ -29,7 +29,7 @@ Example:
 ## Design
 - Premium dark luxury aesthetic (existing CSS preserved + extended)
 - Fully responsive
-- No frameworks — vanilla HTML + CSS + minimal JS
+- No frameworks - vanilla HTML + CSS + minimal JS
 - Font Awesome icons + Google fonts (Cormorant Garamond + Inter)
 
 ## Running locally
