@@ -42,7 +42,7 @@ a:focus-visible,button:focus-visible,.accordion-header:focus-visible{
   border-bottom:1px solid var(--border);
 }
 .nav-inner{display:flex;justify-content:space-between;align-items:center;padding:14px 24px}
-.logo img{height:44px}
+.logo img{height:60px}
 .nav-links{display:flex;gap:32px}
 .nav-links a{font-size:12px;letter-spacing:.2em;color:var(--muted);transition:color .2s}
 .nav-links a:hover{color:var(--gold)}
@@ -183,7 +183,7 @@ h3{font-family:'Cormorant Garamond',serif;font-weight:400;font-size:24px;margin:
 .footer{border-top:1px solid var(--border);padding:64px 0;background:rgba(22,22,20,.5)}
 .footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:48px;margin-bottom:48px}
 @media(max-width:700px){.footer-grid{grid-template-columns:1fr}}
-.foot-brand img{height:48px;margin-bottom:16px}
+.foot-brand img{height:60px;margin-bottom:16px}
 .foot-brand p{color:var(--muted);max-width:360px}
 .footer h4{font-size:11px;letter-spacing:.25em;color:var(--gold);margin-bottom:16px}
 .footer ul{list-style:none}
