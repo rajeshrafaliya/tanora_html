@@ -1,0 +1,11 @@
+# robots.txt for Tanora Care
+# https://www.tanora.co.in
+
+User-agent: *
+Allow: /
+
+# Block nothing critical; showcase site is fully crawlable.
+Disallow: /*?*        # avoid crawling arbitrary query-string URLs
+
+# Preferred sitemap
+Sitemap: https://www.tanora.co.in/sitemap.xml
