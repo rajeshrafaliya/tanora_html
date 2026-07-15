@@ -35,6 +35,17 @@
     </image:image>
   </url>
 
+    <url>
+    <loc>https://www.tanora.co.in/bodywash.html</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.tanora.co.in/images/bodywash.png</image:loc>
+      <image:title>Tanora Bodywash</image:title>
+    </image:image>
+  </url>
+
   <url>
     <loc>https://www.tanora.co.in/sunscreen.html</loc>
     <lastmod>2026-07-09</lastmod>
