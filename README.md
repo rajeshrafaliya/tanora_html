@@ -1,14 +1,15 @@
 # Tanora Luxury Personal Care — HTML Showcase
 
-Multi-page static showcase website for Tanora's 3 signature products:
+Multi-page static showcase website for Tanora's 4 signature products:
 
 - **Anti Hair Fall Shampoo**
 - **Gentle Facewash**
+- **Daily Exfoliating Body Wash**
 - **Nourishing Conditioner**
 
-## Pages (3 main screens + supporting)
+## Pages (4 main screens + supporting)
 - `index.html` — Homepage (hero, product grid with quick buy buttons, benefits, ingredients, reviews, CTA)
-- `shampoo.html`, `facewash.html`, `conditioner.html` — Full product detail pages featuring:
+- `shampoo.html`, `facewash.html`, `bodywash.html`, `conditioner.html` — Full product detail pages featuring:
   - Clickable image gallery + lightbox with zoom (click image to enlarge, click enlarged to zoom 2x)
   - Price, description, key ingredients
   - Direct **Amazon** & **Flipkart** purchase buttons (showcase only — no in-site checkout)
