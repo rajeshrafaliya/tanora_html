@@ -4,8 +4,8 @@
 User-agent: *
 Allow: /
 
-# Block nothing critical; showcase site is fully crawlable.
-Disallow: /*?*        # avoid crawling arbitrary query-string URLs
+# Block nothing critical; showcase site is futlly crawlable.
+Disallow: /*?*        # avoid crawling arbirary query-string URLs
 
 # Preferred sitemap
 Sitemap: https://www.tanora.co.in/sitemap.xml
